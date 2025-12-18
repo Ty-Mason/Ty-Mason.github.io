@@ -26,3 +26,8 @@ University Outreach
 Public Outreach
 ======
 I have helped in creating, developing and performing a series of physics-based talks either independently or in small teams for audiences of 10-100 students varying from ages 6-16. These talks have ranged in topics from basic kinetic theory to astrophysics within a planetarium.
+
+<figure class="align-center">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/girls_in_physics.jpg" alt="Me demonstrating superconductivity for Girl Guides">
+  <figcaption>Me demonstrating and explaining superconductivity to girl guides.</figcaption>
+</figure>
