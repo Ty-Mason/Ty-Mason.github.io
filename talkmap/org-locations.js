@@ -1,8 +1,8 @@
 var addressPoints = [
   [
-    "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
-    34.0536909,
-    -118.242766
+    " Reconstruction of NiO's Electron Momentum Density via Compton Scattering <br /> WE-Heraeus Workshop on ab-initio methodologies for complex magnetism and magneto-superconductivity; Budapest, Hungary",
+	  47.51109823383302, 
+	  19.076557936797048
   ],
   [
     "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
