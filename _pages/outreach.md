@@ -6,30 +6,23 @@ author_profile: true
 ---
 
 
-Education
+Contact Me!
 ======
-* Ph.D in Condensed Matter Physics, University of Bristol, 2026 (expected)
-* MPhys at University of Liverpool, UK (2022)
+I am always happy to help out doing Physics Outreach. If you are interested in having me involved in some outreach please feel free to contact me!
 
-
-Work experience
+University Outreach
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* University of Bristol: 
+  * a
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* University of Liverpool
+  * FCC International Symposium -> I ran a stall at the Futute Circular Collider International Symposium in Liverpool (March 22,2019) demonstrating and briefly explaining Superconductivity and the Meisner Effect to the general public with Dr Hao D. Zhang of Liverpool's QUASAR group.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Institute of Physics 2019 -> 2022
+  * PLANKS 2020 -> I was a member of the organising committee for the PLANKS international theoretical physics competition. 
+  * IOP Campus Ambassador -> 
+  
 
-
-Test 123
+Public Outreach
 ======
-* Testing
+I have helped in creating, developing and performing a series of physics-based talks either independently or in small teams for audiences of 10-100 students varying from ages 6-16. These talks have ranged in topics from basic kinetic theory to astrophysics within a planetarium.
